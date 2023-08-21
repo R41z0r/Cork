@@ -176,7 +176,7 @@
 		633289F029A68CDB004B2930 /* Package in Progress of Being Installed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Package in Progress of Being Installed.swift"; sourceTree = "<group>"; };
 		633A861B29A525F0006EA952 /* Toggle Sidebar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Toggle Sidebar.swift"; sourceTree = "<group>"; };
 		633EB30529BE65EB006CB872 /* Custom Search Field.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Custom Search Field.swift"; sourceTree = "<group>"; };
-		634065612871AA42001A2178 /* Cork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cork.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		634065612871AA42001A2178 /* Cork_R41z0r.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cork_R41z0r.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		634065642871AA42001A2178 /* CorkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorkApp.swift; sourceTree = "<group>"; };
 		634065662871AA42001A2178 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		634065682871AA42001A2178 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -416,7 +416,7 @@
 		634065622871AA42001A2178 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				634065612871AA42001A2178 /* Cork.app */,
+				634065612871AA42001A2178 /* Cork_R41z0r.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -952,9 +952,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		634065602871AA42001A2178 /* Cork */ = {
+		634065602871AA42001A2178 /* Cork_R41z0r */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 634065702871AA42001A2178 /* Build configuration list for PBXNativeTarget "Cork" */;
+			buildConfigurationList = 634065702871AA42001A2178 /* Build configuration list for PBXNativeTarget "Cork_R41z0r" */;
 			buildPhases = (
 				6340655D2871AA42001A2178 /* Sources */,
 				6340655E2871AA42001A2178 /* Frameworks */,
@@ -964,13 +964,13 @@
 			);
 			dependencies = (
 			);
-			name = Cork;
+			name = Cork_R41z0r;
 			packageProductDependencies = (
 				634065742871AB22001A2178 /* DavidFoundation */,
 				63936A4A29AE09D00069C988 /* SwiftyJSON */,
 			);
 			productName = Cork;
-			productReference = 634065612871AA42001A2178 /* Cork.app */;
+			productReference = 634065612871AA42001A2178 /* Cork_R41z0r.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -988,7 +988,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6340655C2871AA42001A2178 /* Build configuration list for PBXProject "Cork" */;
+			buildConfigurationList = 6340655C2871AA42001A2178 /* Build configuration list for PBXProject "Cork_R41z0r" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -1008,7 +1008,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				634065602871AA42001A2178 /* Cork */,
+				634065602871AA42001A2178 /* Cork_R41z0r */,
 			);
 		};
 /* End PBXProject section */
@@ -1327,7 +1327,7 @@
 				CURRENT_PROJECT_VERSION = 42;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Cork/Preview Content\"";
-				DEVELOPMENT_TEAM = ZSVA6DVZHM;
+				DEVELOPMENT_TEAM = XXVQQPS49P;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -1338,7 +1338,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.davidbures.Cork;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.philippbarth.Cork-R41z0r";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -1358,7 +1358,7 @@
 				CURRENT_PROJECT_VERSION = 42;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Cork/Preview Content\"";
-				DEVELOPMENT_TEAM = ZSVA6DVZHM;
+				DEVELOPMENT_TEAM = XXVQQPS49P;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -1369,7 +1369,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.davidbures.Cork;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.philippbarth.Cork-R41z0r";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -1379,7 +1379,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6340655C2871AA42001A2178 /* Build configuration list for PBXProject "Cork" */ = {
+		6340655C2871AA42001A2178 /* Build configuration list for PBXProject "Cork_R41z0r" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6340656E2871AA42001A2178 /* Debug */,
@@ -1388,7 +1388,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		634065702871AA42001A2178 /* Build configuration list for PBXNativeTarget "Cork" */ = {
+		634065702871AA42001A2178 /* Build configuration list for PBXNativeTarget "Cork_R41z0r" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				634065712871AA42001A2178 /* Debug */,

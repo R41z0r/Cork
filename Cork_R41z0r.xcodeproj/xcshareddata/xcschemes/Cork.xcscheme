@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "634065602871AA42001A2178"
-               BuildableName = "Cork.app"
-               BlueprintName = "Cork"
-               ReferencedContainer = "container:Cork.xcodeproj">
+               BuildableName = "Cork_R41z0r.app"
+               BlueprintName = "Cork_R41z0r"
+               ReferencedContainer = "container:Cork_R41z0r.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "634065602871AA42001A2178"
-            BuildableName = "Cork.app"
-            BlueprintName = "Cork"
-            ReferencedContainer = "container:Cork.xcodeproj">
+            BuildableName = "Cork_R41z0r.app"
+            BlueprintName = "Cork_R41z0r"
+            ReferencedContainer = "container:Cork_R41z0r.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "634065602871AA42001A2178"
-            BuildableName = "Cork.app"
-            BlueprintName = "Cork"
-            ReferencedContainer = "container:Cork.xcodeproj">
+            BuildableName = "Cork_R41z0r.app"
+            BlueprintName = "Cork_R41z0r"
+            ReferencedContainer = "container:Cork_R41z0r.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
